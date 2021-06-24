@@ -1,1 +1,1 @@
-This is MattM's first got project!
+This is MattM's first git project!
